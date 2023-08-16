@@ -4,10 +4,9 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Sciente at <a href="https://www.ufes.br/">UFES</a>.
-- 💼 &nbsp; Scientific Initiation at <a href="https://nemo.inf.ufes.br">Nemo UFES</a>.
-- 💼 &nbsp; iOS Developer at Accenture.
-- 🌱 &nbsp; Learning more about mobile and frontend technologies.
+- 🎓 &nbsp; Computer Scientist from <a href="https://www.ufes.br/">UFES</a>.
+- 💼 &nbsp; iOS Software Engineer at Accenture.
+- 🌱 &nbsp; Learning more about mobile and frontend technologies with React, React Native and Flutter.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
