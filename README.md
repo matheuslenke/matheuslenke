@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Computer Scientist from <a href="https://www.ufes.br/">UFES</a>.
 - 💼 &nbsp; iOS Software Engineer at Accenture.
-- 🌱 &nbsp; Learning more about mobile and frontend technologies with React, React Native and Flutter.
+- 🌱 &nbsp; Learning more about backend, mobile and frontend technologies with Node.js, React, React Native and Flutter.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
