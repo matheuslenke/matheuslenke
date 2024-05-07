@@ -5,8 +5,9 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Computer Scientist from <a href="https://www.ufes.br/">UFES</a>.
-- 💼 &nbsp; iOS Software Engineer at Accenture.
-- 🌱 &nbsp; Learning more about backend, mobile and frontend technologies with Node.js, React, React Native and Flutter.
+- 🎓 &nbsp; M.Sc. in Computer Science student at <a href="https://www.ufes.br/">UFES</a>.
+- 💼 &nbsp; Former iOS Software Engineer at Accenture.
+- 🌱 &nbsp; Learning more about AI, Data, Ontologies. Also a big fan of software development
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
